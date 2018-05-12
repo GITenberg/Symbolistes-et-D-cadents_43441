@@ -1,0 +1,29 @@
+_repo: Symbolistes-et-D-cadents_43441
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43441-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kahn, Gustave
+    birthdate: 1859
+    deathdate: 1936
+    gutenberg_agent_id: '42206'
+    url: http://www.gutenberg.org/2009/agents/42206
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2013-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43441'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Symbolism (Literary movement) -- France'
+- !lcsh 'French literature -- 19th century -- History and criticism'
+- !lcsh 'Decadence (Literary movement) -- France'
+- !lcc 'PQ'
+title: Symbolistes et Décadents
+url: http://www.gutenberg.org/ebooks/43441
