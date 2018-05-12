@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42206'
     url: http://www.gutenberg.org/2009/agents/42206
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43441#Symbolistes-et-D-cadents
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2013-08-10'
 gutenberg_type: Text
